@@ -9,8 +9,7 @@ class HomePage extends StatelessWidget {
         centerTitle: true,
       ),
       body: Center(
-        child: Text('Hi Flutter',
-            style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold)),
+        child: Text('Hi Flutter with amber color', style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold)),
       ),
     );
   }
